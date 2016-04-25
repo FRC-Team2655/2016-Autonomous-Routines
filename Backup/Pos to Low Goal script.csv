@@ -1,0 +1,12 @@
+RESET_GYRO, , 
+DRIVE_FAST,-140,Inches
+DEFENSE_DESTROYER_UP, ,None
+BALL_INTAKE_UP, ,None
+WAIT,1,Seconds
+ROTATE_TO,-120,Degrees
+CAMERA_ALIGN, ,None
+WAIT,1,Seconds
+DRIVE_FAST,81,Inches
+BALL_OUT, ,None
+WAIT,2,Seconds
+STOP, ,None

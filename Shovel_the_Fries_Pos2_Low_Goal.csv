@@ -1,0 +1,16 @@
+RESET_GYRO, ,None
+DRIVE_SLOW,58,Inches
+BALL_INTAKE_DOWN, ,None
+WAIT,1,Seconds
+DRIVE_SLOW,-3,Inches
+DRIVE_SLOW,72,Inches
+BALL_INTAKE_UP, ,None
+WAIT,1,Seconds
+ROTATE_TO,0,Degrees
+DRIVE_FAST,140,Inches
+WAIT,1,Seconds
+ROTATE_TO,60,Degrees
+DRIVE_FAST,91,Inches
+BALL_OUT, ,None
+WAIT,2,Seconds
+STOP, ,None

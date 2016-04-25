@@ -1,0 +1,6 @@
+RESET_GYRO, ,None
+ROTATE_TO,-50,Degrees
+CAMERA_ALIGN, ,None
+WAIT,5,Seconds
+DRIVE_SLOW,36,Inches
+STOP, ,None

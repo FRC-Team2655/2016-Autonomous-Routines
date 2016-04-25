@@ -1,0 +1,10 @@
+RESET_GYRO, ,None
+DRIVE_SLOW,144,Inches
+WAIT,1,Seconds
+ROTATE_TO,-15,Degrees
+WAIT,1,Seconds
+DRIVE_SLOW,132,Inches
+WAIT,1,Seconds
+ROTATE_TO,60,Degrees
+DRIVE_SLOW,8,Inches
+STOP, ,None
